@@ -446,41 +446,29 @@ http://localhost:5173
 
 ## 📸 Screenshots
 
-Add screenshots of the completed application here.
-
 ### Command Center
-
-![FulfillFlow Command Center](screenshots/command-center.png)
+![FulfillFlow Command Center](./Screenshots/command-center.png)
 
 ### Orders
-
-![FulfillFlow Orders](screenshots/orders.png)
+![FulfillFlow Orders](./Screenshots/orders.png)
 
 ### Picking Station
-
-![FulfillFlow Picking Station](screenshots/picking-station.png)
+![FulfillFlow Picking Station](./Screenshots/picking-station.png)
 
 ### Packing & Dispatch
-
-![FulfillFlow Packing and Dispatch](screenshots/packing-dispatch.png)
+![FulfillFlow Packing and Dispatch](./Screenshots/packing-dispatch.png)
 
 ### Shipments & Tracking
-
-![FulfillFlow Shipments](screenshots/shipments.png)
+![FulfillFlow Shipments](./Screenshots/shipments.png)
 
 ### Inventory
-
-![FulfillFlow Inventory](screenshots/inventory.png)
+![FulfillFlow Inventory](./Screenshots/inventory.png)
 
 ### Needs Attention
-
-![FulfillFlow Needs Attention](screenshots/needs-attention.png)
+![FulfillFlow Needs Attention](./Screenshots/needs-attention.png)
 
 ### Operations Analytics
-
-![FulfillFlow Operations Analytics](screenshots/analytics.png)
-
----
+![FulfillFlow Operations Analytics](./Screenshots/analytics.png)
 
 ## 🎯 Project Highlights
 
